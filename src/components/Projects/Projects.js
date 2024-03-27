@@ -38,7 +38,7 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={
-                "https://media.licdn.com/dms/image/D5622AQH9SqFt3AL1MQ/feedshare-shrink_800/0/1703733292122?e=1714608000&v=beta&t=F0ES9MAbRqCCYVay2kgLQWxHZOLY8gP7fVAdeqHIpIw"
+                "https://imgs.search.brave.com/GTmr3MIGI3UroKKcSxvD-OscUGzBHCcSVn77qmGJovk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9tb25l/eS10cmFja2VyLWFw/cC1idWRnZXQtZXhw/ZW5zZS1wbGFubmlu/Zy0yMzM4NzY4Nzku/anBn"
               }
               isBlog={false}
               title="Expense Tracker"
